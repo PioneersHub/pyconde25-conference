@@ -38,9 +38,11 @@ event:
   voting_end: "15.02.2025 23:59 CET"
   contact_program: "/to-be-announced/"
   # diversity
-  financial_aid_open: "11.11.2024"
-  financial_aid_close: "01.01.2025"
-  financial_aid_notifications: "01.02.2025"
+  financial_aid_open: "06.12.2024"
+  financial_aid_close: "10.01.2025 23:59 CET"
+  financial_aid_notifications: "14.02.2025"
+  financial_aid_form: "https://forms.gle/u1qAPxQBcQYma9cq7"
+  financial_aid_regional_countries: "Albania, Algeria, Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic/Czechia, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Jordan, Kosovo, Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Moldova, Morocco, Netherlands, North Macedonia, Northern Cyprus, Norway, Palestine, Poland, Portugal, Republic of Cyprus, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Syria, Tunisia, Turkey, Ukraine, United Kingdom, and Vatican City."
   # committees
   call_for_committee_open: "22.10.2024"
   call_for_committee_close: "01.11.2024"
